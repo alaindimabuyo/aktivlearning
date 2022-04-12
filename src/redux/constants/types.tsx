@@ -1,0 +1,9 @@
+export const GET_PHOTOS = 'GET_PHOTOS';
+export const GET_CURRENT_PHOTO = 'GET_CURRENT_PHOTO';
+export const CLEAR_STATE = 'CLEAR_STATE';
+export const CLEAR_ITEM = 'CLEAR_ITEM';
+export const SET_LOADING = 'SET_LOADING';
+export const GET_CURRENT_ITEM = 'GET_CURRENT_ITEM';
+
+export const GET_PHOTOS_ERROR = 'GET_PHOTOS_ERROR';
+export const GET_CURRENT_PHOTO_ERROR = 'GET_CURRENT_PHOTO_ERROR';

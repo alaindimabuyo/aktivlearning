@@ -1,0 +1,16 @@
+{
+  "plugins": [
+    [
+      "module:react-native-dotenv",
+      {
+        "safe": false,
+        "allowUndefined": false,
+        "verbose": false,
+        "envName": "APP_ENV",
+        "moduleName": "@env",
+        "path": ".env",
+        "allowlist": ["PIXABAY_KEY"]
+      }
+    ]
+  ]
+}
